@@ -9,3 +9,4 @@ practise git workflow and commands
 5. `git rebase --interactive <base>` Interactive mode lets clean up history by removing, splitting, and altering an existing series of commits.
 
 ## Rewrite history with `git commit --amend`
+1. `git commit --amend -m` Edit previous commit's message.
