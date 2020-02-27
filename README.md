@@ -23,3 +23,5 @@ practise git workflow and commands
 
 ### Merge branch
 1. `git merge --ff` or `git merge --no-ff`
+
+### Git Cherry Pick
