@@ -14,9 +14,9 @@ practise git workflow and commands
 2. `git reset --hard HEAD^`
 3. Use `git push --force` to force update upstream.
 
-### Edit last commit
-1. `git reset HEAD`, then edit and commit
-2. `git commit --amend`
+### Edit last commit (add files to last commit)
+1. <`git reset HEAD`>, then edit and add changes to the stage.
+2. `git commit --amend --no-edit`
 
 ### Rewrite history with `git commit --amend`
 1. `git commit --amend -m` Edit previous commit's message.
